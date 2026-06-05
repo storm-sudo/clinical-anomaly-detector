@@ -1,0 +1,102 @@
+Subject,AE_Term,Severity_Grade,AE_Category,Start_Date,End_Date,Relationship,Action_Taken,Outcome,Study_Day_Start
+001,Nausea,1,Gastrointestinal,2024-01-20,2024-01-22,Possible,None,Resolved,5
+001,Headache,1,Nervous System,2024-01-25,2024-01-26,Unlikely,None,Resolved,10
+001,Fatigue,2,General,2024-02-01,2024-02-05,Possible,Dose_Reduced,Resolved,17
+002,Hepatotoxicity,4,Hepatic,2024-02-01,,Probable,Dose_Reduced,Ongoing,17
+002,Nausea,1,Gastrointestinal,2024-01-18,2024-01-19,Possible,None,Resolved,3
+002,Vomiting,2,Gastrointestinal,2024-01-22,2024-01-24,Possible,None,Resolved,7
+003,Rash,2,Dermatological,2024-01-22,2024-02-01,Probable,Topical_Treatment,Resolved,7
+003,Pruritus,1,Dermatological,2024-01-22,2024-01-30,Probable,Antihistamine,Resolved,7
+004,Dizziness,1,Nervous System,2024-01-19,2024-01-20,Unlikely,None,Resolved,4
+004,Hypertension,3,Cardiovascular,2024-02-10,,Possible,Antihypertensive,Ongoing,26
+005,Fatigue,2,General,2024-01-21,2024-02-03,Possible,Dose_Reduced,Resolved,6
+005,Anemia,3,Hematological,2024-02-05,,Probable,Iron_Supplement,Ongoing,21
+006,Peripheral Neuropathy,2,Nervous System,2024-02-12,2024-03-01,Probable,None,Resolved,28
+006,Tingling,1,Nervous System,2024-02-12,2024-02-20,Probable,None,Resolved,28
+007,Constipation,1,Gastrointestinal,2024-01-23,2024-01-28,Possible,Laxative,Resolved,8
+007,Abdominal Pain,2,Gastrointestinal,2024-01-25,2024-01-30,Possible,Antispasmodic,Resolved,10
+008,Elevated Creatinine,3,Renal,2024-02-15,,Probable,Dose_Reduced,Ongoing,31
+008,Edema,2,Renal,2024-02-15,,Possible,Diuretic,Ongoing,31
+009,Anaphylaxis,4,Immunological,2024-01-17,,Definite,Drug_Discontinued,Ongoing,2
+009,Hypotension,3,Cardiovascular,2024-01-17,2024-01-17,Definite,Drug_Discontinued,Resolved,2
+010,Insomnia,1,Psychiatric,2024-01-20,2024-02-10,Possible,Sleep_Aid,Resolved,5
+010,Anxiety,2,Psychiatric,2024-01-22,2024-02-15,Possible,Anxiolytic,Resolved,7
+011,Alopecia,2,Dermatological,2024-02-20,,Probable,None,Ongoing,36
+011,Nail_Changes,1,Dermatological,2024-02-25,,Possible,None,Ongoing,41
+012,QT_Prolongation,3,Cardiovascular,2024-02-08,,Probable,ECG_Monitoring,Ongoing,24
+012,Palpitations,2,Cardiovascular,2024-02-08,2024-02-20,Probable,None,Resolved,24
+013,Elevated_ALT,2,Hepatic,2024-01-30,2024-02-28,Probable,Dose_Reduced,Resolved,15
+013,Elevated_AST,2,Hepatic,2024-01-30,2024-02-28,Probable,Dose_Reduced,Resolved,15
+014,Pneumonitis,4,Pulmonary,2024-03-01,,Probable,Hospitalized,Ongoing,46
+014,Dyspnea,3,Pulmonary,2024-02-28,2024-03-01,Probable,Oxygen_Support,Resolved,44
+015,Back_Pain,1,Musculoskeletal,2024-01-25,2024-01-30,Unlikely,Analgesic,Resolved,10
+015,Arthralgia,2,Musculoskeletal,2024-02-01,2024-02-15,Possible,NSAIDs,Resolved,17
+016,Thrombocytopenia,3,Hematological,2024-02-18,,Probable,Dose_Reduced,Ongoing,34
+016,Bleeding_Gums,2,Hematological,2024-02-20,2024-02-25,Probable,Dental_Care,Resolved,36
+017,Hot_Flashes,1,Endocrine,2024-01-22,2024-03-01,Possible,None,Resolved,7
+017,Weight_Loss,2,General,2024-02-01,,Possible,Nutritional_Support,Ongoing,17
+018,Mucositis,3,Gastrointestinal,2024-02-10,,Probable,Mouthwash,Ongoing,26
+018,Dysphagia,2,Gastrointestinal,2024-02-12,2024-02-28,Probable,Soft_Diet,Resolved,28
+019,Hyponatremia,3,Metabolic,2024-02-05,,Probable,Electrolyte_Replacement,Ongoing,21
+019,Confusion,2,Nervous System,2024-02-05,2024-02-10,Probable,None,Resolved,21
+020,Elevated_Bilirubin,4,Hepatic,2024-03-05,,Definite,Hospitalized,Ongoing,50
+020,Jaundice,4,Hepatic,2024-03-05,,Definite,Hospitalized,Ongoing,50
+021,Diarrhea,2,Gastrointestinal,2024-01-19,2024-01-25,Possible,Antidiarrheal,Resolved,4
+021,Dehydration,2,General,2024-01-21,2024-01-24,Possible,IV_Fluids,Resolved,6
+022,Myalgia,1,Musculoskeletal,2024-01-23,2024-02-01,Possible,Analgesic,Resolved,8
+022,Elevated_CK,2,Musculoskeletal,2024-01-25,2024-02-05,Possible,None,Resolved,10
+023,Febrile_Neutropenia,4,Hematological,2024-02-20,,Probable,Hospitalized,Ongoing,36
+023,Fever,3,General,2024-02-20,2024-02-23,Probable,Antipyretic,Resolved,36
+024,Photosensitivity,1,Dermatological,2024-02-01,2024-03-01,Probable,Sunscreen,Resolved,17
+024,Skin_Peeling,2,Dermatological,2024-02-05,2024-02-28,Probable,Moisturizer,Resolved,21
+025,Elevated_Glucose,2,Metabolic,2024-02-08,,Possible,Metformin,Ongoing,24
+025,Polyuria,1,Renal,2024-02-08,,Possible,None,Ongoing,24
+026,Chest_Pain,3,Cardiovascular,2024-03-10,,Possible,Cardiology_Referral,Ongoing,55
+026,Troponin_Elevation,3,Cardiovascular,2024-03-10,,Possible,ECG_Monitoring,Ongoing,55
+027,Epistaxis,2,Hematological,2024-02-15,2024-02-20,Possible,None,Resolved,31
+027,Easy_Bruising,1,Hematological,2024-02-15,,Possible,None,Ongoing,31
+028,Dysuria,1,Renal,2024-01-25,2024-01-30,Unlikely,Antibiotics,Resolved,10
+028,UTI,2,Renal,2024-01-25,2024-02-05,Unlikely,Antibiotics,Resolved,10
+029,Peripheral_Edema,2,Cardiovascular,2024-02-18,,Possible,Diuretic,Ongoing,34
+029,Weight_Gain,2,General,2024-02-18,,Possible,Dietary_Advice,Ongoing,34
+030,Seizure,5,Nervous System,2024-03-15,,Possible,Hospitalized,Ongoing,60
+030,Postictal_Confusion,3,Nervous System,2024-03-15,2024-03-16,Possible,Monitoring,Resolved,60
+031,Decreased_Appetite,1,General,2024-01-20,2024-02-10,Possible,None,Resolved,5
+031,Weight_Loss,2,General,2024-02-01,,Possible,Nutritional_Support,Ongoing,17
+032,Tinnitus,2,ENT,2024-02-25,,Possible,Audiometry,Ongoing,41
+032,Hearing_Loss,2,ENT,2024-03-01,,Possible,ENT_Referral,Ongoing,46
+033,Stomatitis,2,Gastrointestinal,2024-02-10,2024-03-01,Probable,Mouthwash,Resolved,26
+033,Dyspepsia,1,Gastrointestinal,2024-01-22,2024-02-01,Possible,Antacid,Resolved,7
+034,Hand_Foot_Syndrome,3,Dermatological,2024-02-28,,Probable,Topical_Treatment,Ongoing,44
+034,Blistering,2,Dermatological,2024-03-01,,Probable,Wound_Care,Ongoing,46
+035,Hypothyroidism,2,Endocrine,2024-02-20,,Possible,Levothyroxine,Ongoing,36
+035,Fatigue,2,General,2024-02-20,,Possible,None,Ongoing,36
+036,Elevated_Lipase,3,Pancreatic,2024-03-05,,Probable,Dose_Reduced,Ongoing,50
+036,Pancreatitis,3,Pancreatic,2024-03-07,,Probable,Hospitalized,Ongoing,52
+037,Cough,1,Pulmonary,2024-01-22,2024-02-15,Possible,Antitussive,Resolved,7
+037,Interstitial_Lung_Disease,3,Pulmonary,2024-03-01,,Probable,Dose_Reduced,Ongoing,46
+038,Hypocalcemia,2,Metabolic,2024-02-15,,Probable,Calcium_Supplement,Ongoing,31
+038,Muscle_Cramps,1,Musculoskeletal,2024-02-15,2024-03-01,Probable,None,Resolved,31
+039,Renal_Failure,5,Renal,2024-03-20,,Probable,Hospitalized,Ongoing,65
+039,Oliguria,4,Renal,2024-03-18,2024-03-20,Probable,IV_Fluids,Resolved,63
+040,Thrombosis,4,Cardiovascular,2024-03-12,,Possible,Anticoagulant,Ongoing,57
+040,Leg_Pain,3,Cardiovascular,2024-03-10,2024-03-12,Possible,None,Resolved,55
+041,Neutropenia,3,Hematological,2024-02-22,,Probable,GCSF,Ongoing,38
+041,Infection,3,General,2024-03-01,,Probable,Antibiotics,Ongoing,46
+042,Electrolyte_Imbalance,3,Metabolic,2024-02-28,,Probable,Electrolyte_Replacement,Ongoing,44
+042,Weakness,2,General,2024-02-28,,Probable,None,Ongoing,44
+043,Colitis,4,Gastrointestinal,2024-03-15,,Probable,Hospitalized,Ongoing,60
+043,Bloody_Diarrhea,3,Gastrointestinal,2024-03-13,2024-03-15,Probable,IV_Fluids,Resolved,58
+044,Cardiac_Arrhythmia,4,Cardiovascular,2024-03-20,,Possible,Hospitalized,Ongoing,65
+044,Syncope,3,Cardiovascular,2024-03-20,2024-03-21,Possible,Monitoring,Resolved,65
+045,Stevens_Johnson_Syndrome,5,Dermatological,2024-04-01,,Probable,Hospitalized,Ongoing,77
+045,Fever,2,General,2024-03-29,2024-04-01,Probable,Antipyretic,Resolved,74
+046,Adrenal_Insufficiency,3,Endocrine,2024-03-25,,Possible,Cortisol_Replacement,Ongoing,70
+046,Fatigue,3,General,2024-03-25,,Possible,None,Ongoing,70
+047,Bone_Marrow_Suppression,4,Hematological,2024-04-05,,Probable,Hospitalized,Ongoing,81
+047,Pancytopenia,4,Hematological,2024-04-05,,Probable,Transfusion,Ongoing,81
+048,Corneal_Toxicity,2,Ophthalmological,2024-03-10,,Possible,Ophthalmology_Referral,Ongoing,55
+048,Blurred_Vision,2,Ophthalmological,2024-03-10,,Possible,None,Ongoing,55
+049,Hypotension,3,Cardiovascular,2024-02-25,2024-02-26,Possible,IV_Fluids,Resolved,41
+049,Syncope,2,Cardiovascular,2024-02-25,2024-02-25,Possible,Monitoring,Resolved,41
+050,Death,5,General,2024-04-15,,Definite,Drug_Discontinued,Fatal,91
