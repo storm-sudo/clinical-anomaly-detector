@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Background -->
+  <rect width="512" height="512" rx="128" fill="#111111" />
+  
+  <!-- Clinical Cross (Cream) -->
+  <g fill="#FAF7F2">
+    <rect x="216" y="96" width="80" height="320" rx="40" />
+    <rect x="96" y="216" width="320" height="80" rx="40" />
+  </g>
+  
+  <!-- Heartbeat / Data Pulse Line (Black) -->
+  <path d="M 120 256 L 200 256 L 225 170 L 255 342 L 285 230 L 300 256 L 392 256" 
+        stroke="#111111" 
+        stroke-width="20" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none" />
+        
+  <!-- Anomaly Alert (Red/Orange Glow) -->
+  <!-- Outer glowing circle -->
+  <circle cx="255" cy="342" r="28" fill="#ef4444" opacity="0.4" />
+  <!-- Inner solid circle -->
+  <circle cx="255" cy="342" r="14" fill="#ef4444" />
+</svg>
