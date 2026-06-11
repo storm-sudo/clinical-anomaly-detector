@@ -1,20 +1,17 @@
-# 🧬 Clinical Data Anomaly Detector
+# Portfolio Project Showcase: Clinical Data Anomaly Detector (ML-Powered Quality Assurance)
 
-> **ML-powered data quality for clinical trials** — Upload a clinical CSV, detect anomalies with 6 algorithms, export a compliance-ready PDF report.
+## 📌 Project Overview
+The **Clinical Data Anomaly Detector** is an enterprise-grade, full-stack web application designed to identify data quality issues, outliers, and physiological inconsistencies in clinical trial datasets. Powered by an asynchronous **Ensemble Machine Learning Pipeline** and standard clinical rulesets, the platform automates data vetting for clinical researchers, ensuring study integrity and compliance before regulatory submissions.
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
-[![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20RDS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/storm-sudo/clinical-anomaly-detector/ci.yml?label=CI)](https://github.com/storm-sudo/clinical-anomaly-detector/actions)
+### 🌟 Key Tech Stack & Features
+- **Frontend**: Vite + React, Tailwind CSS (Custom Minimalist/Apple-Inspired Cream & Black UI), Recharts (data visualizations), AG-Grid, Zustand (state management), AnimeJS (micro-animations).
+- **Backend**: FastAPI (Python), PostgreSQL (database), Redis & Celery (async worker queuing for heavy analytical calculations), SQLAlchemy (async ORM).
+- **Machine Learning Engine**: Scikit-Learn (Isolation Forest, Local Outlier Factor, Autoencoder via MLPRegressor), Pandas, NumPy, RapidFuzz (for semantic mapping of clinical headers).
+- **Reporting & Infra**: Docker & Docker Compose, Nginx (reverse proxy), ReportLab (fully automated PDF report generator generating executive summaries, protocol recommendations, and anomaly listings).
 
 ---
 
-## 📖 Overview
+## 📖 Detailed Overview
 
 Clinical trials generate massive, complex datasets where a single data entry error can compromise the integrity of an entire study — or worse, patient safety. This tool automates what clinical data managers do manually: finding outliers, impossible values, missing data patterns, and protocol deviations.
 
